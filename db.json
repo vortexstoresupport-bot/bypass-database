@@ -1,0 +1,373 @@
+{
+  "bypasses": [
+    {
+      "id": 1778631618668,
+      "appId": "1174180",
+      "name": "Red Dead Redemption 2",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "link": "https://github.com/vortexstoresupport-bot/bypass-database/releases/download/fixes-storage/fix_1174180.zip",
+      "createdAt": 1778631618668
+    },
+    {
+      "id": 1778124920129,
+      "appId": "3764200",
+      "name": "Resident Evil Requiem",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
+      "link": "https://github.com/vortexstoresupport-bot/bypass-database/releases/download/fixes-storage/fix_3764200.zip",
+      "createdAt": 1778124920129
+    },
+    {
+      "id": 1778628527841,
+      "appId": "311560",
+      "name": "Assassin's Creed® Rogue",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg?t=1751968973",
+      "link": "",
+      "createdAt": 1778628527841
+    },
+    {
+      "id": 1778628527842,
+      "appId": "1426210",
+      "name": "It Takes Two",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
+      "link": "",
+      "createdAt": 1778628527842
+    },
+    {
+      "id": 1778628527843,
+      "appId": "939960",
+      "name": "Far Cry® New Dawn",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/header.jpg?t=1750925197",
+      "link": "",
+      "createdAt": 1778628527843
+    },
+    {
+      "id": 1778628527845,
+      "appId": "284160",
+      "name": "BeamNG.drive",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/header.jpg?t=1772048121",
+      "link": "",
+      "createdAt": 1778628527845
+    },
+    {
+      "id": 1778628527846,
+      "appId": "1293830",
+      "name": "Forza Horizon 4",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342",
+      "link": "",
+      "createdAt": 1778628527846
+    },
+    {
+      "id": 1778628527847,
+      "appId": "1551360",
+      "name": "Forza Horizon 5",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508",
+      "link": "",
+      "createdAt": 1778628527847
+    },
+    {
+      "id": 1778628527848,
+      "appId": "1259970",
+      "name": "eFootball PES 2021 SEASON UPDATE",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259970/header.jpg?t=1639008061",
+      "link": "https://github.com/vortexstoresupport-bot/bypass-database/releases/download/fixes-storage/fix_1259970.zip",
+      "createdAt": 1778628527848
+    },
+    {
+      "id": 1778628527849,
+      "appId": "202970",
+      "name": "Call of Duty®: Black Ops II",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg?t=1748037715",
+      "link": "",
+      "createdAt": 1778628527849
+    },
+    {
+      "id": 1778628527850,
+      "appId": "311210",
+      "name": "Call of Duty®: Black Ops III",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1748022663",
+      "link": "",
+      "createdAt": 1778628527850
+    },
+    {
+      "id": 1778628527851,
+      "appId": "460930",
+      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/header.jpg?t=1764776201",
+      "link": "",
+      "createdAt": 1778628527851
+    },
+    {
+      "id": 1778628527852,
+      "appId": "349040",
+      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg?t=1703080866",
+      "link": "",
+      "createdAt": 1778628527852
+    },
+    {
+      "id": 1778628527853,
+      "appId": "678950",
+      "name": "DRAGON BALL FighterZ",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg?t=1776898545",
+      "link": "",
+      "createdAt": 1778628527853
+    },
+    {
+      "id": 1778628527854,
+      "appId": "323470",
+      "name": "DRAGON BALL XENOVERSE",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323470/header.jpg?t=1701323766",
+      "link": "",
+      "createdAt": 1778628527854
+    },
+    {
+      "id": 1778628527855,
+      "appId": "454650",
+      "name": "DRAGON BALL XENOVERSE 2",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg?t=1776296252",
+      "link": "",
+      "createdAt": 1778628527855
+    },
+    {
+      "id": 1778628527856,
+      "appId": "2129530",
+      "name": "REANIMAL",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg?t=1771918402",
+      "link": "",
+      "createdAt": 1778628527856
+    },
+    {
+      "id": 1778628527857,
+      "appId": "3241660",
+      "name": "R.E.P.O.",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg?t=1778158882",
+      "link": "",
+      "createdAt": 1778628527857
+    },
+    {
+      "id": 1778628527858,
+      "appId": "2172010",
+      "name": "Until Dawn™",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172010/header.jpg?t=1750959555",
+      "link": "",
+      "createdAt": 1778628527858
+    },
+    {
+      "id": 1778628527859,
+      "appId": "242760",
+      "name": "The Forest",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+      "link": "",
+      "createdAt": 1778628527859
+    },
+    {
+      "id": 1778628527860,
+      "appId": "242050",
+      "name": "Assassin's Creed® IV Black Flag™",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg?t=1777052740",
+      "link": "",
+      "createdAt": 1778628527860
+    },
+    {
+      "id": 1778628527861,
+      "appId": "3035570",
+      "name": "Assassin's Creed Mirage",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035570/header.jpg?t=1777476848",
+      "link": "",
+      "createdAt": 1778628527861
+    },
+    {
+      "id": 1778628527862,
+      "appId": "356190",
+      "name": "Middle-earth™: Shadow of War™",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/header.jpg?t=1747346596",
+      "link": "",
+      "createdAt": 1778628527862
+    },
+    {
+      "id": 1778628527863,
+      "appId": "1501750",
+      "name": "Lords of the Fallen",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/header.jpg?t=1773254369",
+      "link": "",
+      "createdAt": 1778628527863
+    },
+    {
+      "id": 1778628527864,
+      "appId": "1086940",
+      "name": "Baldur's Gate 3",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg?t=1777363040",
+      "link": "",
+      "createdAt": 1778628527864
+    },
+    {
+      "id": 1778628527865,
+      "appId": "2208920",
+      "name": "Assassin's Creed Valhalla",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg?t=1754572990",
+      "link": "",
+      "createdAt": 1778628527865
+    },
+    {
+      "id": 1778628527866,
+      "appId": "1903340",
+      "name": "Clair Obscur: Expedition 33",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/header.jpg?t=1773676780",
+      "link": "",
+      "createdAt": 1778628527866
+    },
+    {
+      "id": 1778628527867,
+      "appId": "1623730",
+      "name": "Palworld",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg?t=1773936597",
+      "link": "",
+      "createdAt": 1778628527867
+    },
+    {
+      "id": 1778628527868,
+      "appId": "213670",
+      "name": "South Park™: The Stick of Truth™",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/213670/header.jpg?t=1777994062",
+      "link": "",
+      "createdAt": 1778628527868
+    },
+    {
+      "id": 1778628527869,
+      "appId": "374320",
+      "name": "DARK SOULS™ III",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "link": "",
+      "createdAt": 1778628527869
+    },
+    {
+      "id": 1778628527870,
+      "appId": "570940",
+      "name": "DARK SOULS™: REMASTERED",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1764975651",
+      "link": "",
+      "createdAt": 1778628527870
+    },
+    {
+      "id": 1778628527871,
+      "appId": "2622380",
+      "name": "ELDEN RING NIGHTREIGN",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
+      "link": "",
+      "createdAt": 1778628527871
+    },
+    {
+      "id": 1778628527872,
+      "appId": "1245620",
+      "name": "ELDEN RING",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
+      "link": "",
+      "createdAt": 1778628527872
+    },
+    {
+      "id": 1778628527873,
+      "appId": "2353060",
+      "name": "Invincible VS",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/header.jpg?t=1778178850",
+      "link": "",
+      "createdAt": 1778628527873
+    },
+    {
+      "id": 1778628527874,
+      "appId": "848450",
+      "name": "Subnautica: Below Zero",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg?t=1777456254",
+      "link": "",
+      "createdAt": 1778628527874
+    },
+    {
+      "id": 1778628527875,
+      "appId": "2001120",
+      "name": "Split Fiction",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+      "link": "",
+      "createdAt": 1778628527875
+    },
+    {
+      "id": 1778628527876,
+      "appId": "1237320",
+      "name": "Sonic Frontiers",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg?t=1778176871",
+      "link": "",
+      "createdAt": 1778628527876
+    },
+    {
+      "id": 1778628527877,
+      "appId": "105600",
+      "name": "Terraria",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+      "link": "",
+      "createdAt": 1778628527877
+    },
+    {
+      "id": 1778628527878,
+      "appId": "3527290",
+      "name": "PEAK",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg?t=1775581133",
+      "link": "",
+      "createdAt": 1778628527878
+    },
+    {
+      "id": 1778628527879,
+      "appId": "371660",
+      "name": "Far Cry® Primal",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg?t=1772640435",
+      "link": "",
+      "createdAt": 1778628527879
+    },
+    {
+      "id": 1778628527880,
+      "appId": "2369390",
+      "name": "Far Cry® 6",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg?t=1758656170",
+      "link": "",
+      "createdAt": 1778628527880
+    },
+    {
+      "id": 1778628527881,
+      "appId": "552520",
+      "name": "Far Cry 5",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+      "link": "",
+      "createdAt": 1778628527881
+    },
+    {
+      "id": 1778628527882,
+      "appId": "298110",
+      "name": "Far Cry 4",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
+      "link": "",
+      "createdAt": 1778628527882
+    },
+    {
+      "id": 1778628527883,
+      "appId": "220240",
+      "name": "Far Cry 3",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
+      "link": "",
+      "createdAt": 1778628527883
+    },
+    {
+      "id": 1778628527884,
+      "appId": "447040",
+      "name": "Watch Dogs 2",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
+      "link": "",
+      "createdAt": 1778628527884
+    },
+    {
+      "id": 1778628527885,
+      "appId": "1547000",
+      "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+      "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/header.jpg",
+      "link": "",
+      "createdAt": 1778628527885
+    }
+  ],
+  "lastUpdate": 1778975535638
+}
